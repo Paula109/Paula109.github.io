@@ -24,6 +24,10 @@ nav {
 
 /*educación*/
 
+#educacion {
+    background-color: #00365c;
+}
+
 .card>img {
     width: 40%;
 }
@@ -31,7 +35,7 @@ nav {
 li {
     list-style-type: none;
 }
-
+/*mis habilidades*/
 #mis-habilidades {
     background-color: #676b6b;
 }
