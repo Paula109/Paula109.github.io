@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: #00365c;
-}
-
 /* navbar */
 nav {
     background-color: #00365c;
@@ -23,8 +19,9 @@ nav {
 }
 
 .size {
-    width: 50% ;
+    width: 50%;
 }
+
 /*educación*/
 
 .card>img {
@@ -54,7 +51,7 @@ li {
 }
 
 /*footer*/
-footer{
+footer {
     background-color: #00365c;
 }
 
