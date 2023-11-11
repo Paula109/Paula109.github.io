@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #00365c;
+}
+
+/* navbar */
+nav {
+    background-color: #00365c;
+}
+
+/* hero-section */
+.hero-section {
+    background-image: url(../img/fondo-hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+
+.size {
+    width: 50% ;
+}
+/*educación*/
+
+.card>img {
+    width: 40%;
+}
+
+li {
+    list-style-type: none;
+}
+
+#mis-habilidades {
+    background-color: #676b6b;
+}
+
+/*portafolio*/
+.portafolio {
+    background-color: #ffffff;
+}
+
+.portafolio>div>div>div>a>img {
+    transition: 0.3s;
+}
+
+.portafolio>div>div>div>a>img:hover {
+    scale: 1.2;
+    cursor: pointer;
+}
+
+/*footer*/
+footer{
+    background-color: #00365c;
+}
+
+footer>div>div>i {
+    color: #fff;
+}
+
+footer>div>div>a>i:hover {
+    scale: 1.4;
+    cursor: pointer;
+}
+
+footer>div>div>a:visited {
+    color: #fff;
+}
+
+.size-image {
+    width: 100%;
+}
